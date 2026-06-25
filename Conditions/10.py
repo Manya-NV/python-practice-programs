@@ -9,9 +9,9 @@ elif op=="-":
 elif op=="*":
     print("multiplication: ",a*b)
 elif op=="/":
-    print("multiplication: ",a/b)
+    print("division: ",a/b)
 elif op=="%":
-    print("multiplication: ",a%b)
+    print("mudular division: ",a%b)
 else:
     print("none")
 
